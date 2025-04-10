@@ -33,18 +33,18 @@ My journey began in systems development and evolved through leadership roles and
 ## 🛠️ Technical Skills
 ```
 ├── Programming Languages
-│   ├── [Your languages here]
-├── Frameworks & Libraries
-│   ├── [Your frameworks here]
+│   ├── Python, JavaScript, ShellScript
+├── Automate Tools
+│   ├── n8n, MCP, Bizagi Suit
 ├── DevOps & CI/CD
 │   ├── Jenkins
 │   ├── Git
 │   ├── SonarQube
 │   ├── [Others you use]
-├── Project Management
-│   ├── Jira
+├── Agile Experience
+│   ├── Jira Administrator
 │   ├── Agile Methodologies
-│   ├── [Other PM tools]
+│   ├── Kanban
 └── Security Tools
     ├── Fortify
     ├── Dependency Check
