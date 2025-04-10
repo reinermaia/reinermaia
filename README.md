@@ -60,14 +60,16 @@ My journey began in systems development and evolved through leadership roles and
 - **Postgraduate Degree**: Software Architecture
 - **Postgraduate Degree**: Project Management
 - **Bachelor's Degree**: Computer Science
+- **Master's Degree**: Software Engineering
 - **Certification**: CBPP (Certified Business Process Professional)
 
 ## 📊 GitHub Stats
 ![Reiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinermaia&show_icons=true&theme=dark)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/francis-martins-cbpp/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis.reiner@live.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-martins-cbpp/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis.reiner@live.com)  
+**Perfil LinkedIn:** [linkedin.com/in/francis-martins-cbpp](https://www.linkedin.com/in/francis-martins-cbpp/)
 
 ---
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
