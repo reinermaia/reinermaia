@@ -26,14 +26,14 @@ I hold postgraduate degrees in Project Management, Software Architecture, Data S
 ## 🛠️ Technical Skillset
 
 * **Programming & Scripting:** Python, JavaScript, ShellScript
-* **BPM & Automation Tools:** Bizagi Suite, n8n, MCP, [Mention others like Power Automate if applicable]
-* **DevOps & CI/CD:** Jenkins, Git, SonarQube, [Add others: e.g., Docker, Kubernetes, Ansible]
+* **BPM & Automation Tools:** Bizagi Suite, n8n, MCP
+* **DevOps & CI/CD:** Jenkins, Git, SonarQube
 * **Security Tools:** Fortify, Dependency Check, Dependency Track, Trivy, Grype, Tenable
-* **Agile & Project Management:** Jira (Admin), Kanban, Scrum, [Mention PM software if any]
+* **Agile & Project Management:** Jira (Admin), Kanban, Scrum
 * **Operating Systems:** Linux, Windows
-* **Monitoring & Logging:** Kibana, [Add others: e.g., Grafana, Prometheus, ELK Stack]
-* **Databases:** [List relevant DBs: e.g., SQL Server, PostgreSQL, MySQL, NoSQL dbs]
-* **Cloud Platforms:** [List relevant Cloud experience: e.g., AWS, Azure, GCP basics]
+* **Monitoring & Logging:** Kibana, ElasticSearch
+* **Databases:** PostgreSQL, MySQL, NoSQL
+* **Cloud Platforms:** Jira Cloud, AWS basics, Azure basics, GCP basics
 
 ---
 
@@ -55,11 +55,11 @@ I hold postgraduate degrees in Project Management, Software Architecture, Data S
 
 ## 🎓 Education & Certifications
 
+* **MEng (Master of Engineering):** Software Engineering
 * **Postgraduate Degree:** Cybersecurity
 * **Postgraduate Degree:** Data Science
 * **Postgraduate Degree:** Software Architecture
 * **Postgraduate Degree:** Project Management
-* **MEng (Master of Engineering):** Software Engineering
 * **Bachelor's Degree:** Computer Science
 * **Certification:** CBPP® (Certified Business Process Professional) - *ABPMP International*
 
