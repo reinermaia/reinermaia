@@ -66,8 +66,8 @@ My journey began in systems development and evolved through leadership roles and
 ![Reiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinermaia&show_icons=true&theme=dark)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/francis-martins-cbpp/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis.reiner@live.com)
 
 ---
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
